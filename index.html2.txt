@@ -37,7 +37,7 @@
 
 <p>Here is a picture of a robot:</p>
 
-<img src=
+<img src=Floyd bot.jpg>
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
