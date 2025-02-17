@@ -37,7 +37,7 @@
 
 <p>Here is a picture of a robot:</p>
 
-<img src="https://placekitten.com/200/300" alt="A cute kitten">
+<img src=
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
