@@ -8,7 +8,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>My First GitHub Page</title>
+<title>Code Quest Page</title>
 
 </head>
 
@@ -36,18 +36,17 @@
 <p>This is a simple webpage hosted on code quest</p>
 
 <p>Here is a picture of a robot:</p>
+<p>Description: robots arent just SCI-FI fantacy they are transforming industries, homes amd even our daily lives. From AI-powered assistants to high speed industrial machines, robotics is revolutionising how we work, live and interact with technology
 
 <img src=Floyd bot.jpg>
 
-
-<p>Visit <a href="https://codequest.com">codequest</a> to learn more about coding.</p>
 
 </main>
 
 
 <footer>
 
-<p>floyd media</p>
+<p></p>
 
 </footer>
 
