@@ -36,7 +36,7 @@
 <p>This is a simple webpage hosted on code quest</p>
 
 <p>Here is a picture of a robot:</p>
-<p>Description: robots arent just SCI-FI fantacy they are transforming industries, homes amd even our daily lives. From AI-powered assistants to high speed industrial machines, robotics is revolutionising how we work, live and interact with technology
+<p>Description: robots arent just SCI-FI fantacy they are transforming industries, homes amd even our daily lives. From AI-powered assistants to high speed industrial machines, robotics is revolutionising how we work, live and interact with technology<p>
 
 <img src=Floyd bot.jpg>
 
@@ -53,3 +53,18 @@
 </body>
 
 </html>
+
+my-github-page/
+
+│
+
+├── index.html
+
+├── about.html
+
+├── contact.htmlgit add .
+
+git commit -m "Added About and Contact pages with navigation"
+
+git push origin main
+
