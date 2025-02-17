@@ -40,14 +40,14 @@
 <img src=Floyd bot.jpg>
 
 
-<p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
+<p>Visit <a href="https://codequest.com">codequest</a> to learn more about coding.</p>
 
 </main>
 
 
 <footer>
 
-<p>&copy; 2023 Your Name</p>
+<p>floyd media</p>
 
 </footer>
 
